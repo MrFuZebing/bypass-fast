@@ -1,10 +1,9 @@
-
 // ==UserScript==
 // @name          BYPASS.VIP Faster
 // @namespace     bypass.vip
 // @version       1.0
-// @author        bypass.vip
-// @description   Bypass ad-links using the bypass.vip API and get to your destination without ads!
+// @author        MrFuZebing
+// @description   Bypass ad-links Faster!
 // @match         *://mega-guy.com/*
 // @match         *://loot-link.com/*
 // @match         *://best-links.org/*
