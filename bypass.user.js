@@ -189,8 +189,8 @@
 // @match         *://esohasl.net/*
 // @match         *://rbscripts.net/*
 // @match         *://link.rbscripts.net/*
-// @downloadURL   https://raw.githubusercontent.com/bypass-vip/userscript/master/bypass-vip.user.js
-// @updateURL     https://raw.githubusercontent.com/bypass-vip/userscript/master/bypass-vip.user.js
+// @downloadURL   https://github.com/MrFuZebing/bypass-fast/raw/refs/heads/main/bypass.user.js
+// @updateURL     https://github.com/MrFuZebing/bypass-fast/raw/refs/heads/main/bypass.user.js
 // @homepageURL   https://bypass.vip
 // @icon          https://www.google.com/s2/favicons?domain=bypass.vip&sz=64
 // @run-at document-start
